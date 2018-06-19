@@ -2,7 +2,7 @@
 
 const listaTweets = document.getElementById('lista-tweets');
 
-
+//consolo log
 //event Listeners
 
 eventListeners();
